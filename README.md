@@ -240,7 +240,7 @@ executable — so roughly one inject in four ended in a `SIGSEGV` in native code
 - Include proper error handling and logging
 
 ## ⚠️ Legal Notice
-This project is intended for educational and research purposes. Users are responsible for complying with:
+This project is intended for educational and research purposes. Users are responsible for complying with: 
 - Minecraft's Terms of Service
 - Mojang's Commercial Usage Guidelines
 - Local laws and regulations regarding game modifications
